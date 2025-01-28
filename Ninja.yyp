@@ -34,12 +34,12 @@
   },
   "name":"Ninja",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"r_level_1","path":"rooms/r_level_1/r_level_1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"r_level_1","path":"rooms/r_level_1/r_level_1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
