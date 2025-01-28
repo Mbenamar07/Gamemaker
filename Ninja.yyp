@@ -35,6 +35,7 @@
   "name":"Ninja",
   "resources":[
     {"id":{"name":"r_level_1","path":"rooms/r_level_1/r_level_1.yy",},},
+    {"id":{"name":"spr_right","path":"sprites/spr_right/spr_right.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
