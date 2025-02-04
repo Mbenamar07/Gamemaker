@@ -17,8 +17,11 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_solid","order":1,"path":"objects/obj_solid/obj_solid.yy",},
     {"name":"spr_enemy_left","order":2,"path":"sprites/spr_enemy_left/spr_enemy_left.yy",},
     {"name":"spr_enemy_right","order":3,"path":"sprites/spr_enemy_right/spr_enemy_right.yy",},
     {"name":"spr_player_left","order":1,"path":"sprites/spr_player_left/spr_player_left.yy",},
+    {"name":"Sprite5","order":1,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"Sprite6","order":4,"path":"sprites/Sprite6/Sprite6.yy",},
   ],
 }
