@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_momoto",
+    "path":"sprites/spr_momoto/spr_momoto.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
