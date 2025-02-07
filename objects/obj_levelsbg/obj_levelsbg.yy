@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_momot",
+  "%Name":"obj_levelsbg",
   "eventList":[],
   "managed":true,
-  "name":"obj_momot",
+  "name":"obj_levelsbg",
   "overriddenProperties":[],
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_momoto",
-    "path":"sprites/spr_momoto/spr_momoto.yy",
+    "name":"spr_levelsbg",
+    "path":"sprites/spr_levelsbg/spr_levelsbg.yy",
   },
   "spriteMaskId":null,
   "visible":true,
