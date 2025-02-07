@@ -4,7 +4,7 @@ move_x *= move_speed;
 
 if (move_x != 0) {
   image_speed = 1;
-  image_xscale = sign(-move_x);
+  flipped = sign(-move_x);
 }
 else {
   image_speed = 0;

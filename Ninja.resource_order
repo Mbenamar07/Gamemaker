@@ -1,30 +1,17 @@
 {
-  "FolderOrderSettings":[
-    {"name":"Animation Curves","order":11,"path":"folders/Animation Curves.yy",},
-    {"name":"Extensions","order":13,"path":"folders/Extensions.yy",},
-    {"name":"Fonts","order":6,"path":"folders/Fonts.yy",},
-    {"name":"Notes","order":12,"path":"folders/Notes.yy",},
-    {"name":"Objects","order":8,"path":"folders/Objects.yy",},
-    {"name":"Particle Systems","order":14,"path":"folders/Particle Systems.yy",},
-    {"name":"Paths","order":3,"path":"folders/Paths.yy",},
-    {"name":"Rooms","order":9,"path":"folders/Rooms.yy",},
-    {"name":"Scripts","order":4,"path":"folders/Scripts.yy",},
-    {"name":"Sequences","order":10,"path":"folders/Sequences.yy",},
-    {"name":"Shaders","order":5,"path":"folders/Shaders.yy",},
-    {"name":"Sounds","order":2,"path":"folders/Sounds.yy",},
-    {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
-    {"name":"Timelines","order":7,"path":"folders/Timelines.yy",},
-  ],
+  "FolderOrderSettings":[],
   "ResourceOrderSettings":[
-<<<<<<< HEAD
-    {"name":"r_level_1","order":1,"path":"rooms/r_level_1/r_level_1.yy",},
-=======
+    {"name":"obj_kunai","order":2,"path":"objects/obj_kunai/obj_kunai.yy",},
     {"name":"obj_solid","order":1,"path":"objects/obj_solid/obj_solid.yy",},
->>>>>>> room
-    {"name":"spr_enemy_left","order":2,"path":"sprites/spr_enemy_left/spr_enemy_left.yy",},
-    {"name":"spr_enemy_right","order":3,"path":"sprites/spr_enemy_right/spr_enemy_right.yy",},
-    {"name":"spr_player_left","order":1,"path":"sprites/spr_player_left/spr_player_left.yy",},
-    {"name":"Sprite5","order":1,"path":"sprites/Sprite5/Sprite5.yy",},
-    {"name":"Sprite6","order":4,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"spr_enemy_left","order":3,"path":"sprites/spr_enemy_left/spr_enemy_left.yy",},
+    {"name":"spr_enemy_right","order":4,"path":"sprites/spr_enemy_right/spr_enemy_right.yy",},
+    {"name":"spr_enemy_slash_left","order":7,"path":"sprites/spr_enemy_slash_left/spr_enemy_slash_left.yy",},
+    {"name":"spr_enemy_slash_right","order":8,"path":"sprites/spr_enemy_slash_right/spr_enemy_slash_right.yy",},
+    {"name":"spr_kunai","order":10,"path":"sprites/spr_kunai/spr_kunai.yy",},
+    {"name":"spr_player_left","order":2,"path":"sprites/spr_player_left/spr_player_left.yy",},
+    {"name":"spr_player_throw_left","order":6,"path":"sprites/spr_player_throw_left/spr_player_throw_left.yy",},
+    {"name":"spr_player_throw_right","order":5,"path":"sprites/spr_player_throw_right/spr_player_throw_right.yy",},
+    {"name":"spr_solid","order":1,"path":"sprites/spr_solid/spr_solid.yy",},
+    {"name":"Sprite12","order":9,"path":"sprites/Sprite12/Sprite12.yy",},
   ],
 }

@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_solid",
-  "eventList":[],
+  "%Name":"obj_kunai",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_solid",
+  "name":"obj_kunai",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,9 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_solid",
-    "path":"sprites/spr_solid/spr_solid.yy",
+    "name":"spr_kunai",
+    "path":"sprites/spr_kunai/spr_kunai.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
