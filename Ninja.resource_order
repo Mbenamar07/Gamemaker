@@ -29,7 +29,6 @@
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
     {"name":"obj_settings","order":7,"path":"objects/obj_settings/obj_settings.yy",},
     {"name":"obj_startback","order":2,"path":"objects/obj_startback/obj_startback.yy",},
-<<<<<<< Updated upstream
     {"name":"r_controls","order":3,"path":"rooms/r_controls/r_controls.yy",},
     {"name":"r_level_1","order":1,"path":"rooms/r_level_1/r_level_1.yy",},
     {"name":"r_level_2","order":5,"path":"rooms/r_level_2/r_level_2.yy",},
@@ -40,12 +39,6 @@
     {"name":"r_settings","order":4,"path":"rooms/r_settings/r_settings.yy",},
     {"name":"spr_chooselvl","order":16,"path":"sprites/spr_chooselvl/spr_chooselvl.yy",},
     {"name":"spr_controls","order":8,"path":"sprites/spr_controls/spr_controls.yy",},
-=======
-    {"name":"r_level_1","order":2,"path":"rooms/r_level_1/r_level_1.yy",},
-    {"name":"r_levels","order":3,"path":"rooms/r_levels/r_levels.yy",},
-    {"name":"r_settings","order":1,"path":"rooms/r_settings/r_settings.yy",},
-    {"name":"spr_credits","order":8,"path":"sprites/spr_credits/spr_credits.yy",},
->>>>>>> Stashed changes
     {"name":"spr_enemy_left","order":2,"path":"sprites/spr_enemy_left/spr_enemy_left.yy",},
     {"name":"spr_enemy_right","order":3,"path":"sprites/spr_enemy_right/spr_enemy_right.yy",},
     {"name":"spr_levelsbg","order":7,"path":"sprites/spr_levelsbg/spr_levelsbg.yy",},
