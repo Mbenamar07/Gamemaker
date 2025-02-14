@@ -13,8 +13,13 @@
   ],
   "name":"r_settings",
   "parent":{
+<<<<<<< Updated upstream
     "name":"Rooms",
     "path":"folders/Rooms.yy",
+=======
+    "name":"Ninja",
+    "path":"Ninja.yyp",
+>>>>>>> Stashed changes
   },
   "parentRoom":null,
   "physicsSettings":{

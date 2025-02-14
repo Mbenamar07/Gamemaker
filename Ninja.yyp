@@ -84,6 +84,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"r_startscherm","path":"rooms/r_startscherm/r_startscherm.yy",},},
     {"roomId":{"name":"r_levels","path":"rooms/r_levels/r_levels.yy",},},
+<<<<<<< Updated upstream
     {"roomId":{"name":"r_controls","path":"rooms/r_controls/r_controls.yy",},},
     {"roomId":{"name":"r_settings","path":"rooms/r_settings/r_settings.yy",},},
     {"roomId":{"name":"r_level_1","path":"rooms/r_level_1/r_level_1.yy",},},
@@ -91,6 +92,10 @@
     {"roomId":{"name":"r_level_3","path":"rooms/r_level_3/r_level_3.yy",},},
     {"roomId":{"name":"r_level_4","path":"rooms/r_level_4/r_level_4.yy",},},
     {"roomId":{"name":"r_level_5","path":"rooms/r_level_5/r_level_5.yy",},},
+=======
+    {"roomId":{"name":"r_level_1","path":"rooms/r_level_1/r_level_1.yy",},},
+    {"roomId":{"name":"r_settings","path":"rooms/r_settings/r_settings.yy",},},
+>>>>>>> Stashed changes
   ],
   "templateType":"game",
   "TextureGroups":[
